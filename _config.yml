@@ -21,7 +21,7 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: s.wubben@uvt.nl
   behance:
   bitbucket: swubb
   dribbble:
@@ -35,7 +35,7 @@ theme:
   reddit: swubb
   soundcloud:
   stack_exchange:  # Full URL
-  steam: sawwie
+  steam: 
   tumblr:
   twitter: swubbb
   wordpress:
